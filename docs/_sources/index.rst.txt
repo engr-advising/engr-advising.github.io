@@ -7,7 +7,7 @@ Welcome to Engineering Advising at SUNY Maritime College! Yay!
 ==============================================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    intro.rst
