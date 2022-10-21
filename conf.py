@@ -20,9 +20,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'NSLS-II SRX'
-copyright = '2021, SRX'
-author = 'SRX'
+project = 'SUNY Maritime Engineering Advising'
+copyright = '2022, SUNY Maritime College'
+author = 'Kathryn Gosselin'
 
 # The short X.Y version
 version = ''
@@ -132,20 +132,20 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'NSLS-IISRX.tex', 'NSLS-II SRX Documentation',
-     'SRX', 'manual'),
-]
+# latex_documents = [
+    # (master_doc, 'NSLS-IISRX.tex', 'NSLS-II SRX Documentation',
+     # 'SRX', 'manual'),
+# ]
 
 
 # -- Options for manual page output ------------------------------------------
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    (master_doc, 'nsls-iisrx', 'NSLS-II SRX Documentation',
-     [author], 1)
-]
+# man_pages = [
+    # (master_doc, 'nsls-iisrx', 'NSLS-II SRX Documentation',
+     # [author], 1)
+# ]
 
 
 # -- Options for Texinfo output ----------------------------------------------
@@ -153,11 +153,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-    (master_doc, 'NSLS-IISRX', 'NSLS-II SRX Documentation',
-     author, 'NSLS-IISRX', 'One line description of project.',
-     'Miscellaneous'),
-]
+# texinfo_documents = [
+    # (master_doc, 'NSLS-IISRX', 'NSLS-II SRX Documentation',
+     # author, 'NSLS-IISRX', 'One line description of project.',
+     # 'Miscellaneous'),
+# ]
 
 
 # -- Options for Epub output -------------------------------------------------
