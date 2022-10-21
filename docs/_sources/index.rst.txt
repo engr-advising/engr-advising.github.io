@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Engineering Advising at SUNY Maritime College!
-=========================================================
+Welcome to Engineering Advising at SUNY Maritime College! Yay!
+==============================================================
 
 .. toctree::
    :maxdepth: 1
