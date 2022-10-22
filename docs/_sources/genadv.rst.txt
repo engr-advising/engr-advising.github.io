@@ -47,6 +47,7 @@ How to Prepare for Advisement
 You can use DegreeWorks to help you complete items 3a and 3b.
 
 For 3c, you should take into account the following concerns:
+
 * Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet).
 * How many credits you wish to take.
 * Pre- and co-requisites (see Flow Charts section below).
