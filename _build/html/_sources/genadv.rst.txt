@@ -33,11 +33,16 @@ How to Prepare for Advisement
 *****************************
 
 #. 1.	Determine your catalog year
+
 #. 2.	Find and print your curriculum sheet
+
 #. 3.	Complete the curriculum sheet by making notations to the right of the credit hours:
-   #. a.	Mark courses you’ve already taken with a check (✔)
-   #. b.	Mark courses you’re currently taking with a tilde (~)
-   #. c.	Mark courses you plan to take next semester with a star (✩)
+
+    #. a.	Mark courses you’ve already taken with a check (✔)
+
+    #. b.	Mark courses you’re currently taking with a tilde (~)
+	
+	#. c.	Mark courses you plan to take next semester with a star (✩)
 
 You can use DegreeWorks to help you complete items 3a and 3b.
 
