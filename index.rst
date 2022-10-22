@@ -14,6 +14,9 @@ Welcome to Engineering Advising at SUNY Maritime College! Yay!
    useful.rst
    staff.rst
 
+Here is a new section
+=====================
+
 Indices and tables
 ==================
 
