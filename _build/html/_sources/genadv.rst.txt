@@ -38,22 +38,18 @@ How to Prepare for Advisement
 
 #.	Complete the curriculum sheet by making notations to the right of the credit hours:
 
-    *	Mark courses you’ve already taken with a check (✔)
+  *	Mark courses you’ve already taken with a check (✔)
 
-    *	Mark courses you’re currently taking with a tilde (~)
+  *	Mark courses you’re currently taking with a tilde (~)
 	
-    *	Mark courses you plan to take next semester with a star (✩)
+  *	Mark courses you plan to take next semester with a star (✩)
 
 You can use DegreeWorks to help you complete items 3a and 3b.
 
 For 3c, you should take into account the following concerns:
-
 * Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet).
-
 * How many credits you wish to take.
-
 * Pre- and co-requisites (see Flow Charts section below).
-
 * When you hope to graduate.
 
 
