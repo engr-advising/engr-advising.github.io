@@ -36,13 +36,13 @@ How to Prepare for Advisement
 
 #.	Find and print your curriculum sheet
 
-#.	Complete the curriculum sheet by making notations to the right of the credit hours:
+#. Complete the curriculum sheet by making notations to the right of the credit hours:
 
-  *	Mark courses you’ve already taken with a check (✔)
+   * Mark courses you’ve already taken with a check (✔)
 
-  *	Mark courses you’re currently taking with a tilde (~)
+   * Mark courses you’re currently taking with a tilde (~)
 	
-  *	Mark courses you plan to take next semester with a star (✩)
+   * Mark courses you plan to take next semester with a star (✩)
 
 You can use DegreeWorks to help you complete items 3a and 3b.
 
