@@ -9,20 +9,18 @@ Finding Your Primary Advisor
 You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
 
 If you arrive at Maritime as a first-time student and are enrolled in LEAD 101, your primary advisor is usually your LEAD 101 instructor for your first year. Your DegreeWorks page will look something like the below image. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
-
 .. figure::  _images/advisor1.png
    :width: 100%
    :align: center
 
-
+|
 
 Once you become a second-year student, or if you transfer to Maritime as an upper-division student, your primary advisor will be someone in your major. In the image below, for example, the student should seek out Dr. Gosselin for advisement.
-
 .. figure::  _images/advisor2.png
    :width: 100%
    :align: center
 
-
+|
 
 When and Where to Get Advisement
 ********************************
@@ -32,17 +30,17 @@ The advisement periods each semester are listed on the Maritime College calendar
 How to Prepare for Advisement
 *****************************
 
-#. 1.	Determine your catalog year
+#.	Determine your catalog year
 
-#. 2.	Find and print your curriculum sheet
+#.	Find and print your curriculum sheet
 
-#. 3.	Complete the curriculum sheet by making notations to the right of the credit hours:
+#.	Complete the curriculum sheet by making notations to the right of the credit hours:
 
-    #. a.	Mark courses you’ve already taken with a check (✔)
+    #.	Mark courses you’ve already taken with a check (✔)
 
-    #. b.	Mark courses you’re currently taking with a tilde (~)
+    #.	Mark courses you’re currently taking with a tilde (~)
 	
-	#. c.	Mark courses you plan to take next semester with a star (✩)
+	#.	Mark courses you plan to take next semester with a star (✩)
 
 You can use DegreeWorks to help you complete items 3a and 3b.
 
