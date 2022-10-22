@@ -10,13 +10,39 @@ You can find your primary advisor by checking DegreeWorks. This information will
 
 If you arrive at Maritime as a first-time student and are enrolled in LEAD 101, your primary advisor is usually your LEAD 101 instructor for your first year. Your DegreeWorks page will look something like the below image. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
 
-
 .. _fig-prompt:
-.. figure::  _images/SRX_BeamlineSchematic_text_tab_web.png
-   :target: _images/SRX_BeamlineSchematic_text_tab_web.png
+.. figure::  _images/advisor1.png
+   :target: _images/advisor1.png
    :width: 100%
    :align: center
 
-   A schematic of the SRX beamline at the NSLS-II.
+Once you become a second-year student, or if you transfer to Maritime as a second- or third-year student, your primary advisor will be someone in your major. In the image below, for example, the student should seek out Dr. Gosselin for advisement.
+
+.. _fig-prompt:
+.. figure::  _images/advisor2.png
+   :target: _images/advisor2.png
+   :width: 100%
+   :align: center
+
+When and Where to Get Advisement
+********************************
+
+The advisement periods each semester are listed on the Maritime College calendar `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_. Note that first-year student advisement starts a week before general advisement. Your primary advisor will probably reach out to you about how to schedule an appointment. They might have a sign-up page on their door, or they may hold open office hours, or they may use an electronic appointment platform. If you don’t hear from them before the start of advisement week, you should email them to request information on how to make an appointment.
+
+How to Prepare for Advisement
+*****************************
+
+1.	Determine your catalog year
+2.	Find and print your curriculum sheet
+3.	Complete the curriculum sheet by making notations to the right of the credit hours:
+	a.	Mark courses you’ve already taken with a check (✔)
+	b.	Mark courses you’re currently taking with a tilde (~)
+	c.	Mark courses you plan to take next semester with a star (✩)
+You can use DegreeWorks to help you complete items 3a and 3b.
+For 3c, you should take into account the following concerns:
+* Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet)
+* How many credits you wish to take
+* Pre- and co-requisites (see Flow Charts section below)
+* When you hope to graduate
 
 
