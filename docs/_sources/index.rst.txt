@@ -1,18 +1,20 @@
-.. NSLS-II SRX documentation master file, created by
-   sphinx-quickstart on Wed Jan 20 16:08:10 2021.
+.. engr-advising documentation master file
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Engineering Advising at SUNY Maritime College! Yay!
-==============================================================
+Welcome to Engineering Advising at SUNY Maritime College!
+=========================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   intro.rst
+   genadv.rst
    useful.rst
    staff.rst
+
+Here is a new section
+=====================
 
 Indices and tables
 ==================
