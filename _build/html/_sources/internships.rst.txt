@@ -1,0 +1,38 @@
+Internships
+===========
+
+Policies and Procedures
+***********************
+Internship Policy
+-----------------
+You should read the `Industrial Internship in Engineering Policy <https://www.sunymaritime.edu/sites/default/files/2022-05/Industrial%20Internships%20in%20Engineering.pdf>`_ in full before starting this process.
+
+Students must complete 6 credits of industrial internships (or equivalent, see Frequently Asked Questions) in order to graduate. In general, this can be completed one of two ways:
+
+Option 1: ENGR 526 + 536
+^^^^^^^^^^^^^^^^^^^^^^^^
+ENGR 526 Industrial Internship I and ENGR 536 Industrial Internship II are both 3-credit courses, intended to be completed during two different summers. ENGR 526 requires you to complete at least 40 full days of work in an internship that includes practical application of engineering knowledge. ENGR 536 requires you to complete at least 40 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
+
+Option 2: ENGR 538
+^^^^^^^^^^^^^^^^^^
+ENGR 538 Extended Internship in Engineering is a 6-credit course, intended to be completed during the summer after your junior year or later. ENGR 538 requires you to complete at least 40 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
+
+Internship Procedure
+--------------------
+The general process for completing an internship for credit is as follows:
+
+1. Find, interview for, and receive an offer for an engineering internship.
+2. Write a proposal detailing your job duties and learning objectives, and have it signed by your supervisor at your internship.
+3. Submit the proposal to your academic advisor for approval, along with a completed registration form (see Documents section below).
+4. During the internship, keep a daily log and keep documentation of your work (calculations, pictures, drawings, etc.).
+5. Upon completion of the internship, have your supervisor complete an evaluation of your work.
+6. Write a report on your internship, and submit it to your academic advisor for grading.
+
+Documents
+*********
+	* `Industrial Internship in Engineering Policy <https://www.sunymaritime.edu/sites/default/files/2022-05/Industrial%20Internships%20in%20Engineering.pdf>`_
+	* :download:`Internship Registration Form <files/IntRegForm.pdf>`
+
+
+Frequently Asked Questions
+**************************
