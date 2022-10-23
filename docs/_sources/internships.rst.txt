@@ -9,12 +9,11 @@ You should read the `Industrial Internship in Engineering Policy <https://www.su
 
 Students must complete 6 credits of industrial internships (or equivalent, see Frequently Asked Questions) in order to graduate. In general, this can be completed one of two ways:
 
-Option 1: ENGR 526 + 536
-^^^^^^^^^^^^^^^^^^^^^^^^
+**Option 1: ENGR 526 + 536**
 ENGR 526 Industrial Internship I and ENGR 536 Industrial Internship II are both 3-credit courses, intended to be completed during two different summers. ENGR 526 requires you to complete at least 40 full days of work in an internship that includes practical application of engineering knowledge. ENGR 536 requires you to complete at least 40 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
 
-Option 2: ENGR 538
-^^^^^^^^^^^^^^^^^^
+**Option 2: ENGR 538**
+
 ENGR 538 Extended Internship in Engineering is a 6-credit course, intended to be completed during the summer after your junior year or later. ENGR 538 requires you to complete at least 40 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
 
 Internship Procedure
@@ -32,7 +31,22 @@ Documents
 *********
 	* `Industrial Internship in Engineering Policy <https://www.sunymaritime.edu/sites/default/files/2022-05/Industrial%20Internships%20in%20Engineering.pdf>`_
 	* :download:`Internship Registration Form <files/IntRegForm.pdf>`
+	* :download:`Internship Proposal Template <files/IntPropTemp2022.docx>`
 
 
 Frequently Asked Questions
 **************************
+**Can I get internship credit for something else?**
+
+Yes, but only under some limited circumstances, and with appropriate documentation. See details in the `Industrial Internship Equivalency Policy <https://www.sunymaritime.edu/sites/default/files/2022-05/Industrial%20Internship%20Equivalency.pdf>`_.
+
+**Is there a required format for the internship report?**
+
+The required sections and some basic formatting details are found in the internship proposal template. You should ask your advisor whether they have any additional preferences or requirements.
+
+Additional Resources
+********************
+Career Services is available to assist you in finding, applying for, and interviewing for internships.
+
+	* Their `webpage <https://www.sunymaritime.edu/student-life/career-services>`_ has important dates, as well as a link to Purple Briefcase, which has job listings for many internships.
+	* Their `BAND page <https://band.us/band/88883903>`_ has upcoming events and job postings.

@@ -11,11 +11,4 @@ Welcome to Engineering Advising at SUNY Maritime College!
 
    genadv.rst
    internships.rst
-   staff.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   documents.rst
