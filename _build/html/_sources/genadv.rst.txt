@@ -8,7 +8,7 @@ Finding Your Primary Advisor
 ****************************
 You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
 
-If you arrive at Maritime as a first-time student and are enrolled in LEAD 101, your primary advisor is usually your LEAD 101 instructor for your first year. Your DegreeWorks page will look something like the below image. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
+If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
 
 .. figure::  _images/advisor1.png
    :width: 100%
@@ -32,25 +32,36 @@ The advisement periods each semester are listed on the Maritime College calendar
 How to Prepare for Advisement
 *****************************
 
-#.	Determine your catalog year
+1. Determine your catalog year. This is found on DegreeWorks, as shown in the example image below.
 
-#.	Find and print your curriculum sheet
+.. figure::  _images/catalogyear.png
+   :width: 100%
+   :align: center
 
-#. Complete the curriculum sheet by making notations to the right of the credit hours:
+|
 
-   * Mark courses you’ve already taken with a check (✔)
+2. Find and print your curriculum sheet (see Documents section below).
 
-   * Mark courses you’re currently taking with a tilde (~)
+3. Complete the curriculum sheet by making notations to the right of the credit hours:
+
+   a. Mark courses you’ve already taken with a check (✔)
+
+   b. Mark courses you’re currently taking with a tilde (~)
 	
-   * Mark courses you plan to take next semester with a star (✩)
+   c. Mark courses you plan to take next semester with a star (✩)
 
 You can use DegreeWorks to help you complete items 3a and 3b.
 
-For 3c, you should take into account the following concerns:
+To complete item 3c, you should take into account the following concerns:
 
-* Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet).
-* How many credits you wish to take.
-* Pre- and co-requisites (see Flow Charts section below).
-* When you hope to graduate.
+	* Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet).
+	* How many credits you wish to take.
+	* Pre- and co-requisites (see Documents section below).
+	* When you hope to graduate.
 
+Documents
+*********
 
+Curriculum sheets may be found by catalog year at `this page <https://www.sunymaritime.edu/academics/college-catalogs>`_ (scroll down to Degree Curricula).
+
+Flow Charts may be found in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/EpkBYLX_aV9Kh09wvkw7wbMBBYTrdhhj1IxQsiUrE0V_SQ>`_
