@@ -10,11 +10,12 @@ You should read the `Industrial Internship in Engineering Policy <https://www.su
 Students must complete 6 credits of industrial internships (or equivalent, see Frequently Asked Questions) in order to graduate. In general, this can be completed one of two ways:
 
 **Option 1: ENGR 526 + 536**
+
 ENGR 526 Industrial Internship I and ENGR 536 Industrial Internship II are both 3-credit courses, intended to be completed during two different summers. ENGR 526 requires you to complete at least 40 full days of work in an internship that includes practical application of engineering knowledge. ENGR 536 requires you to complete at least 40 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
 
 **Option 2: ENGR 538**
 
-ENGR 538 Extended Internship in Engineering is a 6-credit course, intended to be completed during the summer after your junior year or later. ENGR 538 requires you to complete at least 40 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
+ENGR 538 Extended Internship in Engineering is a 6-credit course, intended to be completed during the summer after your junior year or later. ENGR 538 requires you to complete at least 60 full days of work in an internship that includes practical application of *both* engineering knowledge and design techniques.
 
 Internship Procedure
 --------------------
