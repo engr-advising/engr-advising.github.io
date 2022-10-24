@@ -1,5 +1,5 @@
-Important Documents
-===================
+Documents
+=========
 
 Curriculum Sheets
 -----------------
@@ -17,7 +17,7 @@ Internship Documents
 
 Other Useful Forms
 ------------------
-Most other forms are found on the Registrar's webpage including the following:
+Most other forms are found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_, including the following:
 
 	* Drop/Add Form
 	* Change of Curriculum Form

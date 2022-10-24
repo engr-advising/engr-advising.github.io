@@ -38,7 +38,7 @@ How to Prepare for Advisement
 
 3. Complete the curriculum sheet by making notations to the right of the credit hours:
 
-   a. Mark courses you’ve already taken with a check (✔)
+   a. Mark courses you’ve already completed, either at Maritime or via transfer credit, with a check (✔)
 
    b. Mark courses you’re currently taking with a tilde (~)
 	
@@ -64,8 +64,8 @@ Curriculum sheets may be found by catalog year at `this page <https://www.sunyma
 To read your curriculum sheet, keep these things in mind:
 
 	* Any course which is written in **bold face** is only offered in the semester in which is it listed.
-	* Otherwise, the semesters in which each course is written is only a guideline or suggestion. You may take classes in different semesters than indicated, and you may sometimes take them out of order.
-	* To determine what to take next, you should keep in mind pre- and co-requisites, which are listed on the curriculum flow charts.
+	* Otherwise, the semesters in which each course is written is only a suggestion. You may take classes in different semesters than indicated, and you may sometimes take them out of order.
+	* To determine what to take next, you should keep in mind pre- and co-requisites, which are listed on the curriculum flow charts, as described in the next section.
 	
 Flow Charts
 ***********
@@ -93,6 +93,8 @@ Frequently Asked Questions
 	| SUNY Maritime College
 	| 6 Pennyfield Avenue
 	| Throggs Neck, NY 10465
+
+4. If the credits are not posted within a few weeks, you can email the Registrar's office (registrar@sunymaritime.edu) to check on the status of your transcripts.
 	
 **How do I change majors?**
 
