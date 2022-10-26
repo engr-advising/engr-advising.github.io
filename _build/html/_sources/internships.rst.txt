@@ -33,6 +33,12 @@ Documents
 	* `Industrial Internship in Engineering Policy <https://www.sunymaritime.edu/sites/default/files/2022-05/Industrial%20Internships%20in%20Engineering.pdf>`_
 	* :download:`Internship Registration Form <files/IntRegForm.pdf>`
 	* :download:`Internship Proposal Template <files/IntPropTemp2022.docx>`
+	* :download:`Finding an Internship <files/FindinganInternship.pdf>`
+	
+Materials from Information Session on 10/25/2022
+************************************************
+	* `Video <https://youtu.be/IBr6xVP_fcU>`_
+	* :download:`Slides <files/InternshipSession_Slides_Fall2022.pptx>`
 
 
 Frequently Asked Questions
