@@ -62,7 +62,7 @@ You should determine your registration date by checking the `Maritime College ca
 	* Junior: 50-74%
 	* Senior: 75% and above
 	
-Registration begins promptly at 6 AM. It is recommended that before registration begins, you determine which classes and sections you wish to take, and write down the CRN for each one. You should also have your registration PIN, provided by your advisor during registration, ready. The registrar's page has a `tutorial <https://www.sunymaritime.edu/sites/default/files/2022-01/Self%20Service%20Registration%20Instructions.pdf>`_ to assist you in using the CRN's to register to classes. This document also explains the various errors that can occur during registration.
+Registration begins promptly at 6 AM. It is recommended that before registration begins, you determine which classes and sections you wish to take, and write down the CRN for each one. You should also have your registration PIN, provided by your advisor during registration, ready. The registrar's page has a `tutorial <https://www.sunymaritime.edu/sites/default/files/2022-01/Self%20Service%20Registration%20Instructions.pdf>`_ to assist you in using the CRN's to register to classes. This document also explains the errors that can occur during registration.
 
 Documents
 ---------
