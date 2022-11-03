@@ -52,6 +52,17 @@ To complete item 3c, you should take into account the following concerns:
 	* How many credits you wish to take.
 	* Pre- and co-requisites (see Documents section below).
 	* When you hope to graduate.
+	
+How to Register for Classes
+***************************
+
+You should determine your registration date by checking the `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_. Your class standing is determined based on the degree completion percentage shown in DegreeWorks, broken down as follows:
+	* Freshman: 0-24%
+	* Sophomore: 25-49%
+	* Junior: 50-74%
+	* Senior: 75% and above
+	
+Registration begins promptly at 6 AM. It is recommended that before registration begins, you determine which classes and sections you wish to take, and write down the CRN for each one. You should also have your registration PIN, provided by your advisor during registration, ready. The registrar's page has a `tutorial <https://www.sunymaritime.edu/sites/default/files/2022-01/Self%20Service%20Registration%20Instructions.pdf>`_ to assist you in using the CRN's to register to classes. This document also explains the various errors that can occur during registration.
 
 Documents
 ---------
