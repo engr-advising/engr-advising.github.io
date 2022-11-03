@@ -57,6 +57,7 @@ How to Register for Classes
 ***************************
 
 You should determine your registration date by checking the `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_. Your class standing is determined based on the degree completion percentage shown in DegreeWorks, broken down as follows:
+
 	* Freshman: 0-24%
 	* Sophomore: 25-49%
 	* Junior: 50-74%
