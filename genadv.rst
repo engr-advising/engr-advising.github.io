@@ -4,6 +4,8 @@ General Advising
 Policies and Procedures
 -----------------------
 
+All students **must** complete advisement each semester in order to receive their registration PIN. This is not optional. Advisement must be completed with your primary advisor, and you must fill out a curriculum sheet (degree curricula) for your major and catalog year before your advising appointment.
+
 Finding Your Primary Advisor
 ****************************
 You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
@@ -23,7 +25,19 @@ Once you become a second-year student, or if you transfer to Maritime as an uppe
 When and Where to Get Advisement
 ********************************
 
-The advisement periods each semester are listed on the Maritime College calendar `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_. Note that first-year student advisement starts a week before general advisement. Your primary advisor will probably reach out to you about how to schedule an appointment. They might have a sign-up page on their door, or they may hold open office hours, or they may use an electronic appointment platform. If you don’t hear from them before the start of advisement week, you should email them to request information on how to make an appointment.
+The advisement periods each semester are listed on the Maritime College calendar `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_ and found below for the current semester. Note that first-year student advisement starts a week before general advisement. Your primary advisor will probably reach out to you about how to schedule an appointment. They might have a sign-up page on their door, or they may hold open office hours, or they may use an electronic appointment platform. If you don’t hear from them before the start of advisement week, you should email them to request information on how to make an appointment.
+
+Important Dates for Spring 2023 Advisement Period
+*************************************************
++------------------+-------------------+--------------------------+
+| Class Standing   | Advisement Begins | Registration Begins      |
++==================+===================+==========================+
+| Freshman         | Monday, March 13  | Thursday, March 30, 6 AM |
+| Sophomore        | Monday, March 20  | Tuesday, April 4, 6 AM   |
+| Junior           | Monday, March 20  | Tuesday, April 4, 6 AM   |
+| Senior           | Monday, March 20  | Thursday, March 30, 6 AM |
+| Graduate Student | Monday, March 20  | Thursday, March 30, 6 AM |
++------------------+-------------------+--------------------------+
 
 How to Prepare for Advisement
 *****************************
