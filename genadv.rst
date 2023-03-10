@@ -33,9 +33,13 @@ Important Dates for Spring 2023 Advisement Period
 | Class Standing   | Advisement Begins | Registration Begins      |
 +==================+===================+==========================+
 | Freshman         | Monday, March 13  | Thursday, March 30, 6 AM |
++------------------+-------------------+--------------------------+
 | Sophomore        | Monday, March 20  | Tuesday, April 4, 6 AM   |
-| Junior           | Monday, March 20  | Tuesday, April 4, 6 AM   |
++------------------+-------------------+--------------------------+
+| Junior           | Monday, March 20  | Tuesday, April 2, 6 AM   |
++------------------+-------------------+--------------------------+
 | Senior           | Monday, March 20  | Thursday, March 30, 6 AM |
++------------------+-------------------+--------------------------+
 | Graduate Student | Monday, March 20  | Thursday, March 30, 6 AM |
 +------------------+-------------------+--------------------------+
 
