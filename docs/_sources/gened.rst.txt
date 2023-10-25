@@ -20,10 +20,11 @@ As a Maritime College engineering student, you can think of the General Educatio
 
 3. 3 courses you get to choose.
 
-3 courses build into your major
+3 courses built into your major
 *******************************
 
 All Engineering students are required to take the following courses, which automatically fulfill specific areas within the Gen Ed Framework:
+
 +-----------------------------------------+------------------------------------------------+
 | Course                                  | Gen Ed Category                                |
 +=========================================+================================================+
@@ -37,9 +38,10 @@ All Engineering students are required to take the following courses, which autom
 1 DEISJ Course
 **************
 You must take one of the following Maritime courses to fulfill the area of Diversity: Equity, Inclusion, and Social Justice:
-HUMN 217: Oceanic Migrations
-ENGL 213: LatinX Literature
-HUMN 216: Introduction to Jazz History
+
+	* HUMN 217: Oceanic Migrations
+	* ENGL 213: LatinX Literature
+	* HUMN 216: Introduction to Jazz History
 
 
 3 courses you get to choose
