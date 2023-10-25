@@ -10,7 +10,7 @@ Students entering Maritime College in Fall 2023 and later must follow the new SU
 
 Gen Ed Framework
 -----------------
-The full SUNY Gen Ed framework is found on `this page <https://system.suny.edu/academic-affairs/acaproplan/general-education/suny-ge/>`_ However, this is far more information than you need, and it doesn't tell you how to apply it to Maritime-specific courses, nor your degree program.
+The full SUNY Gen Ed framework is found on `this page <https://system.suny.edu/academic-affairs/acaproplan/general-education/suny-ge/>`_. However, this is far more information than you need, and it doesn't tell you how to apply it to Maritime-specific courses, nor your degree program.
 
 As a Maritime College engineering student, you can think of the General Education framework as 7 courses in 3 categories:
 
