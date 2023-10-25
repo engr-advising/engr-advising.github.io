@@ -4,7 +4,7 @@ General Education Requirements
 Overview
 --------
 
-Students entering Maritime Collete in Spring 2023 and earlier follow the old Maritime College general education requirements. For the majority of Engineering students, this consists of 4 required classes listed on your Degree Curricula: HIST 101, HIST 101, HUMN 201, and HUMN 202. See your advisor with any questions about these requirements.
+Students who entered Maritime College in Spring 2023 and earlier follow the old Maritime College general education requirements. For the majority of Engineering students, this consists of 4 required classes listed on your Degree Curricula: HIST 101, HIST 101, HUMN 201, and HUMN 202. See your advisor with any questions about these requirements.
 
 Students entering Maritime College in Fall 2023 and later must follow the new SUNY General Education Framework, which are more flexible and allow you to choose some courses. They are detailed below. Note that the courses available in each subject area may change in time; this page was last updated on October 25, 2023.
 
@@ -25,15 +25,21 @@ As a Maritime College engineering student, you can think of the General Educatio
 
 All Engineering students are required to take the following courses, which automatically fulfill specific areas within the Gen Ed Framework:
 
-+-----------------------------------------+------------------------------------------------+
-| Course                                  | Gen Ed Category                                |
-+=========================================+================================================+
-| MATH 101: Calculus I                    | GERM: Mathematics (and Quantitative Reasoning) |
-+-----------------------------------------+------------------------------------------------+
-| CHEM 121/122: General Chemistry and Lab | GERN: Natural Science                          |
-+-----------------------------------------+------------------------------------------------+
-| ENGL 101: Freshman English I            | GERC: Basic Communication (Written & Oral)     |
-+-----------------------------------------+------------------------------------------------+
++----------------------------------------------+------------------------------------------------+
+| Courses                                      | Gen Ed Category                                |
++==============================================+================================================+
+| MATH 101: Calculus I                         | GERM: Mathematics (and Quantitative Reasoning) |
+|                                              |                                                |
+| MATH 102: Calculus II                        |                                                |
++----------------------------------------------+------------------------------------------------+
+| CHEM 121/122: General Chemistry and Lab      | GERN: Natural Science                          |
+|                                              |                                                |
+| PHYS 102/104: Engineering Physics I and Lab  |                                                |
+|                                              |                                                |
+| PHYS 201/203: Engineering Physics II and Lab |                                                |
++----------------------------------------------+------------------------------------------------+
+| ENGL 101: Freshman English I                 | GERC: Basic Communication (Written & Oral)     |
++----------------------------------------------+------------------------------------------------+
 
 1 DEISJ Course
 **************
@@ -47,7 +53,7 @@ You must take one of the following Maritime courses to fulfill the area of Diver
 3 courses you get to choose
 ***************************
 
-In addition to the above, you are required to take 3 additional general education classes. They must be from 3 of the following 5 areas:
+In addition to the above, you are required to take 3 additional general education classes. These are listed as "General Education Electives" on your Degree Curricula. The classes you take must come from 3 of the following 5 areas:
 	* GERS: Social Science
 	* GERU: Humanities
 	* GERA: Arts
@@ -84,3 +90,24 @@ DegreeWorks
 ***********
 
 DegreeWorks is programmed with the new Gen Ed requirements.
+
+Somewhere near the top of the page, you will see the DEISJ requirement, with the available classes listed to the right:
+
+.. figure::  _images/gened1.png
+   :width: 100%
+   :align: center
+
+Near the bottom of the page, you will see the Gen Ed Elective requirement, with the available courses listed in each area:
+
+.. figure::  _images/gened2.png
+   :width: 100%
+   :align: center
+
+As you take courses that fulfill these requirements, DegreeWorks will show them as being completed. The Gen Ed Elective list is very helpful to consult if you forget which area(s) you've already taken classes in, so that you don't accidentally repeat it.
+
+Gen Ed Worksheet
+****************
+
+Maritime College has provided a Gen Ed Worksheet to help you keep track of the requirements. It may be downloaded :download:`here <files/GenEdWorksheet_Fall2023.pdf>`
+
+Note that this is a worksheet applicable to all students at Maritime College, so it lists all courses which fulfill the Mathematics and Natural Science areas.
