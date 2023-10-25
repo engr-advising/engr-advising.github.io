@@ -46,7 +46,6 @@ You can essentially ignore these three required areas, as your degree program wi
 1 DEISJ Course
 **************
 You must take one of the following Maritime courses to fulfill the area of Diversity: Equity, Inclusion, and Social Justice:
-
 	* HUMN 217: Oceanic Migrations
 	* ENGL 213: LatinX Literature
 	* HUMN 216: Introduction to Jazz History
@@ -55,7 +54,7 @@ You must take one of the following Maritime courses to fulfill the area of Diver
 3 courses you get to choose
 ***************************
 
-In addition to the above, you are required to take 3 additional general education classes. These are listed as "General Education Electives" on your Degree Curricula. The classes you take must come from 3 of the following 5 areas:
+In addition to the above classes, you are required to take 3 additional general education classes. These are listed as "General Education Electives" on your Degree Curricula. The classes you take must come from 3 of the following 5 areas:
 	* GERS: Social Science
 	* GERU: Humanities
 	* GERA: Arts
