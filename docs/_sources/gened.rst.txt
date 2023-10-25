@@ -23,10 +23,10 @@ As a Maritime College engineering student, you can think of the General Educatio
 3 courses built into your major
 *******************************
 
-All Engineering students are required to take the following courses, which automatically fulfill specific areas within the Gen Ed Framework:
+All Engineering students are required to take the following courses, which automatically fulfill specific areas within the Gen Ed Framework.
 
 +----------------------------------------------+------------------------------------------------+
-| Courses                                      | Gen Ed Category                                |
+| Courses                                      | Gen Ed Area                                    |
 +==============================================+================================================+
 | MATH 101: Calculus I                         | GERM: Mathematics (and Quantitative Reasoning) |
 |                                              |                                                |
@@ -40,6 +40,8 @@ All Engineering students are required to take the following courses, which autom
 +----------------------------------------------+------------------------------------------------+
 | ENGL 101: Freshman English I                 | GERC: Basic Communication (Written & Oral)     |
 +----------------------------------------------+------------------------------------------------+
+
+You can essentially ignore these three required areas, as your degree program will automatically fulfill them.
 
 1 DEISJ Course
 **************
@@ -84,26 +86,7 @@ World History & Global Awareness courses:
 Resources
 ---------
 
-As you navigate this new framework, you are encouraged to make use of all available resources.
-
-DegreeWorks
-***********
-
-DegreeWorks is programmed with the new Gen Ed requirements.
-
-Somewhere near the top of the page, you will see the DEISJ requirement, with the available classes listed to the right:
-
-.. figure::  _images/gened1.png
-   :width: 100%
-   :align: center
-
-Near the bottom of the page, you will see the Gen Ed Elective requirement, with the available courses listed in each area:
-
-.. figure::  _images/gened2.png
-   :width: 100%
-   :align: center
-
-As you take courses that fulfill these requirements, DegreeWorks will show them as being completed. The Gen Ed Elective list is very helpful to consult if you forget which area(s) you've already taken classes in, so that you don't accidentally repeat it.
+As you navigate this new framework, you are encouraged to make use of all available resources, listed below in the order in which you should try them.
 
 Gen Ed Worksheet
 ****************
@@ -111,3 +94,31 @@ Gen Ed Worksheet
 Maritime College has provided a Gen Ed Worksheet to help you keep track of the requirements. It may be downloaded :download:`here <files/GenEdWorksheet_Fall2023.pdf>`
 
 Note that this is a worksheet applicable to all students at Maritime College, so it lists all courses which fulfill the Mathematics and Natural Science areas.
+
+DegreeWorks
+***********
+
+DegreeWorks is programmed with the new Gen Ed requirements.
+
+Somewhere near the top of the page, you will see the DEISJ requirement, with the available classes listed to the right:
+.. figure::  _images/gened1.png
+   :width: 100%
+   :align: center
+
+
+Near the bottom of the page, you will see the Gen Ed Elective requirement, with the available courses listed in each area:
+.. figure::  _images/gened2.png
+   :width: 100%
+   :align: center
+
+As you take courses that fulfill these requirements, DegreeWorks will show them as being completed. The Gen Ed Elective list is very helpful to consult if you forget which area(s) you've already taken classes in, so that you don't accidentally repeat it.
+
+Your Advisor
+************
+
+If you are confused about how to use the Gen Ed Worksheet or what is shown in DegreeWorks, you should reach out to your advisor for guidance.
+
+Transfer Students
+-----------------
+
+Students who have already taken some or all of their required Gen Ed courses at another school may deviate slightly from the above framework. For example, there is an additional allowed category called World Languages, but I have not listed it in the requirements above, as Maritime College currently doesn't have any courses in that area. That said, the overall framework is identical across all SUNY campuses, so your Gen Ed courses should transfer relatively cleanly. See your advisor with any questions about your particular situation.
