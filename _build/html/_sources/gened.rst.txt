@@ -100,12 +100,14 @@ DegreeWorks
 DegreeWorks is programmed with the new Gen Ed requirements.
 
 Somewhere near the top of the page, you will see the DEISJ requirement, with the available classes listed to the right:
+
 .. figure::  _images/gened1.png
    :width: 100%
    :align: center
 
 
 Near the bottom of the page, you will see the Gen Ed Elective requirement, with the available courses listed in each area:
+
 .. figure::  _images/gened2.png
    :width: 100%
    :align: center
