@@ -4,9 +4,9 @@ General Education Requirements
 Overview
 --------
 
-Students who entered Maritime College in Spring 2023 and earlier follow the old Maritime College general education requirements. For the majority of Engineering students, this consists of 4 required classes listed on your Degree Curricula: HIST 101, HIST 101, HUMN 201, and HUMN 202. See your advisor with any questions about these requirements.
+Students with a Catalog Year of 2022-23 and earlier (see `this page <https://engr-advising.github.io/genadv.html#how-to-prepare-for-advisement>`_ for instructions on finding your catalog year) follow the old Maritime College general education requirements. For the majority of Engineering students, this consists of 4 required classes listed on your Degree Curricula: HIST 101, HIST 101, HUMN 201, and HUMN 202. See your advisor with any questions about these requirements.
 
-Students entering Maritime College in Fall 2023 and later must follow the new SUNY General Education Framework, which are more flexible and allow you to choose some courses. They are detailed below. Note that the courses available in each subject area may change in time; this page was last updated on October 25, 2023.
+Students entering with a Catalog Year of 2023-24 and later must follow the new SUNY General Education Framework, which are more flexible and allow you to choose some courses. They are detailed below. Note that the courses available in each subject area may change in time; this page was last updated on October 25, 2023.
 
 Gen Ed Framework
 -----------------
@@ -81,6 +81,11 @@ US History & Civic Engagement courses:
 World History & Global Awareness courses:
 	* HUMN 201: Early World Civilization & Culture
 	* HUMN 202: Later World Civilization & Culture
+
+Changes of Major
+----------------
+
+If you change your major after entering Maritime College, you are required to follow the Catalog Year at the time of your major change. For some students, this means they will move from the old Gen Ed requirements to the new Gen Ed requirements. However, SUNY has instructed us to "hold harmless" any students caught in the transition. That is, we will examine your progress in the old Gen Ed curricula and waive requirements as appropriate so that you don't need to do more Gen Ed courses than before the change of major. You should see Dr. Gosselin (or `email her <mailto:kgosselin@sunymaritime.edu>`_) before you complete your change of major in order to determine how this change will affect your required Gen Ed courses.
 
 Resources
 ---------

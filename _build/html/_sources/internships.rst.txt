@@ -3,6 +3,9 @@ Internships
 
 Policies and Procedures
 ***********************
+
+**IMPORTANT: YOU MUST COMPLETE STEPS 1-3 OF THE INTERNSHIP PROCEDURE *BEFORE* YOUR INTERNSHIP BEGINS, OR YOU RISK NOT RECEIVING CREDIT FOR IT.**
+
 Internship Policy
 -----------------
 You should read the `Industrial Internship in Engineering Policy <https://www.sunymaritime.edu/sites/default/files/2022-05/Industrial%20Internships%20in%20Engineering.pdf>`_ in full before starting this process.
