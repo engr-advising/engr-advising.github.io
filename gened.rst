@@ -95,9 +95,7 @@ As you navigate this new framework, you are encouraged to make use of all availa
 Gen Ed Worksheet
 ****************
 
-Maritime College has provided a Gen Ed Worksheet to help you keep track of the requirements. It may be downloaded :download:`here <files/GenEdWorksheet_Fall2023.pdf>`
-
-Note that this is a worksheet applicable to all students at Maritime College, so it lists all courses which fulfill the Mathematics and Natural Science areas.
+Maritime College has provided a Gen Ed Worksheet to help you keep track of the requirements. The version for Engineering Majors may be downloaded :download:`here <files/GenEdWorksheet_ENGR_Fall2023.pdf>`
 
 DegreeWorks
 ***********
