@@ -87,7 +87,7 @@ Documents
 Degree Curricula
 ****************
 
-Degree Curricula for all Engineering majors are sorted by catalog year in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcByzik4TNaIUZGEroiySFYNA?e=n0DlDh>`_. They are sorted by catalog year, then by major and license, and you should select the file with the words "Degree Curricula" in the filaname.
+Degree Curricula for all Engineering majors are sorted by catalog year in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_. They are sorted by catalog year, then by major and license, and you should select the file with the words "Degree Curricula" in the filaname.
 
 To read your curriculum sheet, keep these things in mind:
 
@@ -98,7 +98,7 @@ To read your curriculum sheet, keep these things in mind:
 Flowcharts
 ***********
 
-Curriculum flowcharts are maintained for all Engineering majors and may be found with the Degree Curricula in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcByzik4TNaIUZGEroiySFYNA?e=n0DlDh>`_. They are sorted in the same way, and you should select the file with the word "Flowchart" in the filename.
+Curriculum flowcharts are maintained for all Engineering majors and may be found with the Degree Curricula in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_. They are sorted in the same way, and you should select the file with the word "Flowchart" in the filename.
 
 To read your curriculum flow chart, keep these things in mind:
 
