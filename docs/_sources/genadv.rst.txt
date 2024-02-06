@@ -32,13 +32,13 @@ Important Dates for Fall 2023 Advisement Period
 +------------------+---------------------+----------------------------+
 | Class Standing   | Advisement Begins   | Registration Begins        |
 +==================+=====================+============================+
-| Freshman         | Monday, October 30  | Tuesday, November 14, 6 AM |
+| Freshman         | Monday, April 1     | Tuesday, April 23, 6 AM    |
 +------------------+---------------------+----------------------------+
-| Sophomore        | Monday, November 6  | Tuesday, November 16, 6 AM |
+| Sophomore        | Monday, April 8     | Thursday, April 25, 6 AM   |
 +------------------+---------------------+----------------------------+
-| Junior           | Monday, November 6  | Tuesday, November 16, 6 AM |
+| Junior           | Monday, April 8     | Thursday, April 25, 6 AM   |
 +------------------+---------------------+----------------------------+
-| Senior           | Monday, November 6  | Tuesday, November 14, 6 AM |
+| Senior           | Monday, April 8     | Tuesday, April 23, 6 AM    |
 +------------------+---------------------+----------------------------+
 
 How to Prepare for Advisement
