@@ -44,7 +44,7 @@ Important Dates for Fall 2023 Advisement Period
 How to Prepare for Advisement
 *****************************
 
-1. Determine your catalog year. This is found on DegreeWorks, as shown in the example image below. It is **crucial** that you know your catalog year, as there were significant changes to the Degree Curricula in 2023-24. (See the `General Education Requirements page <https://engr-advising.github.io/gened.html>`
+1. Determine your catalog year. This is found on DegreeWorks, as shown in the example image below. It is **crucial** that you know your catalog year, as there were significant changes to the Degree Curricula in 2023-24. (See the `General Education Requirements page <https://engr-advising.github.io/gened.html>`_
 
 .. figure::  _images/catalogyear.png
    :width: 100%
