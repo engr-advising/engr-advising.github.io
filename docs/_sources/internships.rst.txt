@@ -38,10 +38,10 @@ Documents
 	* :download:`Internship Proposal Template <files/IntPropTemp2022.docx>`
 	* :download:`Finding an Internship <files/FindinganInternship.pdf>`
 	
-Materials from Information Session on 10/25/2022
-************************************************
-	* `Video <https://youtu.be/IBr6xVP_fcU>`_
-	* :download:`Slides <files/InternshipSession_Slides_Fall2022.pptx>`
+Materials from Information Session on 3/7/2024
+**********************************************
+	* `Video <https://youtu.be/VcxleC4xFXE>`_
+	* :download:`Slides <files/IntSlidesSpring24.pdf>`
 
 
 Frequently Asked Questions
@@ -58,5 +58,5 @@ Additional Resources
 ********************
 Career Services is available to assist you in finding, applying for, and interviewing for internships.
 
-	* Their `webpage <https://www.sunymaritime.edu/student-life/career-services>`_ has important dates, as well as a link to Purple Briefcase, which has job listings for many internships.
+	* Their `webpage <https://www.sunymaritime.edu/student-life/career-services>`_ has important dates, as well as a link to Handshake, which has job listings for internships.
 	* Their `BAND page <https://band.us/band/88883903>`_ has upcoming events and job postings.
