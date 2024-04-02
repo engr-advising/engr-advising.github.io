@@ -27,8 +27,10 @@ When and Where to Get Advisement
 
 The advisement periods each semester are listed on the Maritime College calendar `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_ and found below for the current semester. Note that first-year student advisement starts a week before general advisement. Your primary advisor will probably reach out to you about how to schedule an appointment. They might have a sign-up page on their door, or they may hold open office hours, or they may use an electronic appointment platform. If you don’t hear from them before the start of advisement week, you should email them to request information on how to make an appointment.
 
-Important Dates for Fall 2023 Advisement Period
-***********************************************
+Important Dates
+***************
+Summer 2024 registration begins Monday, April 22, 6 AM for all students. No PIN is required.
+
 +------------------+---------------------+----------------------------+
 | Class Standing   | Advisement Begins   | Registration Begins        |
 +==================+=====================+============================+
