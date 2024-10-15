@@ -31,6 +31,8 @@ Important Dates
 ***************
 Winter 2025 registration begins Monday, November 11th for all students. No PIN is required.
 
+Important dates for Spring 2025 registration:
+
 +------------------+---------------------+-----------------------------+
 | Class Standing   | Advisement Begins   | Registration Begins         |
 +==================+=====================+=============================+
