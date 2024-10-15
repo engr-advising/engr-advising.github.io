@@ -29,19 +29,19 @@ The advisement periods each semester are listed on the Maritime College calendar
 
 Important Dates
 ***************
-Summer 2024 registration begins Monday, April 22, 6 AM for all students. No PIN is required.
+Winter 2025 registration begins Monday, November 11th for all students. No PIN is required.
 
-+------------------+---------------------+----------------------------+
-| Class Standing   | Advisement Begins   | Registration Begins        |
-+==================+=====================+============================+
-| Freshman         | Monday, April 1     | Tuesday, April 23, 6 AM    |
-+------------------+---------------------+----------------------------+
-| Sophomore        | Monday, April 8     | Thursday, April 25, 6 AM   |
-+------------------+---------------------+----------------------------+
-| Junior           | Monday, April 8     | Thursday, April 25, 6 AM   |
-+------------------+---------------------+----------------------------+
-| Senior           | Monday, April 8     | Tuesday, April 23, 6 AM    |
-+------------------+---------------------+----------------------------+
++------------------+---------------------+-----------------------------+
+| Class Standing   | Advisement Begins   | Registration Begins         |
++==================+=====================+=============================+
+| Freshman         | Monday, October 28  | Tuesday, November 12, 6 AM  |
++------------------+---------------------+-----------------------------+
+| Sophomore        | Monday, November 4  | Thursday, November 14, 6 AM |
++------------------+---------------------+-----------------------------+
+| Junior           | Monday, November 4  | Thursday, November 14, 6 AM |
++------------------+---------------------+-----------------------------+
+| Senior           | Monday, November 4  | Tuesday, November 12, 6 AM  |
++------------------+---------------------+-----------------------------+
 
 How to Prepare for Advisement
 *****************************
