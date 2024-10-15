@@ -3,7 +3,7 @@ Documents
 
 Curriculum Sheets and Flowcharts
 ---------------------------------
-Degree Curricula and pre-requisite flowcharts for all Engineering majors may be found in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_. They are sorted first by catalog year; see the  `General Advising page <https://engr-advising.github.io/genadv.html>`_ for instructions on how to determine your catalog year.
+Degree Curricula and pre-requisite flowcharts for all Engineering majors may be found in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_. Make sure you select the correct catalog year; see the  `General Advising page <https://engr-advising.github.io/genadv.html>`_ for instructions on how to determine your catalog year.
 
 Internship Documents
 --------------------
