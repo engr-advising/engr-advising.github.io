@@ -22,6 +22,7 @@ All students **must** complete advisement each semester in order to receive thei
 	.. figure::  _images/advisor2.png
 	   :width: 100%
 	   :align: center
+:::
 
 When and Where to Get Advisement
 ********************************
