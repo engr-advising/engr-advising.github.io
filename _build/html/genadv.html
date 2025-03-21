@@ -8,6 +8,7 @@
       <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="_static/sphinx_collapse.css" type="text/css" />
+      <link rel="stylesheet" href="_static/togglebutton.css" type="text/css" />
   <!--[if lt IE 9]>
     <script src="_static/js/html5shiv.min.js"></script>
   <![endif]-->
@@ -17,6 +18,11 @@
         <script src="_static/underscore.js"></script>
         <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="_static/doctools.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -91,9 +97,11 @@
 <section id="policies-and-procedures">
 <h2>Policies and Procedures<a class="headerlink" href="#policies-and-procedures" title="Permalink to this heading"></a></h2>
 <p>All students <strong>must</strong> complete advisement each semester in order to receive their registration PIN. This is not optional. Advisement must be completed with your primary advisor, and you must fill out a Degree Curricula (sometimes called a curriculum sheet) for your major and catalog year before your advising appointment.</p>
-<div class="sphinx_collapse docutils container">
-<input class="sphinx_collapse__input" id="111ff8fb-2645-475e-b2f1-732694d0abc6" name="111ff8fb-2645-475e-b2f1-732694d0abc6" type="checkbox"><label class="sphinx_collapse__label" for="111ff8fb-2645-475e-b2f1-732694d0abc6"><i class="sphinx_collapse__icon"></i>Finding Your Primary Advisor</label><div class="sphinx_collapse__content docutils container">
-<p>You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.</p>
+<div class="dropdown admonition note">
+<p class="admonition-title">Note</p>
+<p>Finding Your Primary Advisor</p>
+<blockquote>
+<div><p>You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.</p>
 <p>If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.</p>
 <figure class="align-center">
 <a class="reference internal image-reference" href="_images/advisor1.png"><img alt="_images/advisor1.png" src="_images/advisor1.png" style="width: 100%;" /></a>
@@ -102,7 +110,7 @@
 <figure class="align-center">
 <a class="reference internal image-reference" href="_images/advisor2.png"><img alt="_images/advisor2.png" src="_images/advisor2.png" style="width: 100%;" /></a>
 </figure>
-</div>
+</div></blockquote>
 </div>
 <section id="when-and-where-to-get-advisement">
 <h3>When and Where to Get Advisement<a class="headerlink" href="#when-and-where-to-get-advisement" title="Permalink to this heading"></a></h3>
