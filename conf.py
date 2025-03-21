@@ -42,6 +42,7 @@ release = ''
 extensions = [
     'sphinx_rtd_theme',
     'sphinx.ext.todo',
+    'sphinx_collapse',
     'sphinx.ext.githubpages',
 ]
 

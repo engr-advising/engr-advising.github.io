@@ -6,21 +6,21 @@ Policies and Procedures
 
 All students **must** complete advisement each semester in order to receive their registration PIN. This is not optional. Advisement must be completed with your primary advisor, and you must fill out a Degree Curricula (sometimes called a curriculum sheet) for your major and catalog year before your advising appointment.
 
-Finding Your Primary Advisor
-****************************
-You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
+.. collapse:: Finding Your Primary Advisor
 
-If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
+	You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
 
-.. figure::  _images/advisor1.png
-   :width: 100%
-   :align: center
+	If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
 
-Once you become a second-year student, or if you transfer to Maritime as an upper-division student, your primary advisor will be someone in your major. In the image below, for example, the student should seek out Dr. Gosselin for advisement.
+	.. figure::  _images/advisor1.png
+	   :width: 100%
+	   :align: center
 
-.. figure::  _images/advisor2.png
-   :width: 100%
-   :align: center
+	Once you become a second-year student, or if you transfer to Maritime as an upper-division student, your primary advisor will be someone in your major. In the image below, for example, the student should seek out Dr. Gosselin for advisement.
+
+	.. figure::  _images/advisor2.png
+	   :width: 100%
+	   :align: center
 
 When and Where to Get Advisement
 ********************************
@@ -91,7 +91,7 @@ Documents
 Degree Curricula
 ****************
 
-Degree Curricula for all Engineering majors are sorted by catalog year in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_. They are sorted by catalog year, then by major and license, and you should select the file with the words "Degree Curricula" in the filaname.
+`CLICK HERE <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_ to access all Degree Curricula and Flowcharts for the School of Engineering. Make sure you select the correct catalog year, and choose the file with the words "Degree Curricula" in the filaname.
 
 To read your curriculum sheet, keep these things in mind:
 
