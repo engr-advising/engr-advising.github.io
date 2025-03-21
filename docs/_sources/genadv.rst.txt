@@ -6,8 +6,8 @@ Policies and Procedures
 
 All students **must** complete advisement each semester in order to receive their registration PIN. This is not optional. Advisement must be completed with your primary advisor, and you must fill out a Degree Curricula (sometimes called a curriculum sheet) for your major and catalog year before your advising appointment.
 
-.. Finding Your Primary Advisor:: 
-    :class: dropdown
+:::{admonition} Finding Your Primary Advisor
+:class: dropdown
 
 	You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
 
