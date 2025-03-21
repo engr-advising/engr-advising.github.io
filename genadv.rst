@@ -1,16 +1,12 @@
 General Advising
 ================
 
-Policies and Procedures
------------------------
-
 All students **must** complete advisement each semester in order to receive their registration PIN. This is not optional. Advisement must be completed with your primary advisor, and you must fill out a Degree Curricula (sometimes called a curriculum sheet) for your major and catalog year before your advising appointment.
 
-:::{admonition} Finding Your Primary Advisor
-:class: dropdown
+.. dropdown:: Finding Your Primary Advisor
 
 	You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
-
+	
 	If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
 
 	.. figure::  _images/advisor1.png
@@ -22,124 +18,114 @@ All students **must** complete advisement each semester in order to receive thei
 	.. figure::  _images/advisor2.png
 	   :width: 100%
 	   :align: center
-   
-:::
 
-When and Where to Get Advisement
-********************************
+.. dropdown:: Advising and Registration Dates
 
-The advisement periods each semester are listed on the Maritime College calendar `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_ and found below for the current semester. Note that first-year student advisement starts a week before general advisement. Your primary advisor will probably reach out to you about how to schedule an appointment. They might have a sign-up page on their door, or they may hold open office hours, or they may use an electronic appointment platform. If you don’t hear from them before the start of advisement week, you should email them to request information on how to make an appointment.
+	The advisement periods each semester are listed on the Maritime College calendar `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_ and found below for the current semester. Note that first-year student advisement starts a week before general advisement. Your primary advisor will probably reach out to you about how to schedule an appointment. They might have a sign-up page on their door, or they may hold open office hours, or they may use an electronic appointment platform. If you don’t hear from them before the start of advisement week, you should email them to request information on how to make an appointment.
 
-Important Dates
-***************
-Winter 2025 registration begins Monday, November 11th for all students. No PIN is required.
+	Summer 2025 registration begins Monday, April 21 for all students. No PIN is required.
 
-Important dates for Spring 2025 registration:
+	Important dates for Fall 2025 registration:
 
-+------------------+---------------------+-----------------------------+
-| Class Standing   | Advisement Begins   | Registration Begins         |
-+==================+=====================+=============================+
-| Freshman         | Monday, October 28  | Tuesday, November 12, 6 AM  |
-+------------------+---------------------+-----------------------------+
-| Sophomore        | Monday, November 4  | Thursday, November 14, 6 AM |
-+------------------+---------------------+-----------------------------+
-| Junior           | Monday, November 4  | Thursday, November 14, 6 AM |
-+------------------+---------------------+-----------------------------+
-| Senior           | Monday, November 4  | Tuesday, November 12, 6 AM  |
-+------------------+---------------------+-----------------------------+
+	+------------------+---------------------+--------------------------+
+	| Class Standing   | Advisement Begins   | Registration Begins      |
+	+==================+=====================+==========================+
+	| Freshman         | Monday, April 7     | Tuesday, April 22, 6 AM  |
+	+------------------+---------------------+--------------------------+
+	| Sophomore        | Monday, April 14    | Thursday, April 24, 6 AM |
+	+------------------+---------------------+--------------------------+
+	| Junior           | Monday, April 14    | Thursday, April 24, 6 AM |
+	+------------------+---------------------+--------------------------+
+	| Senior           | Monday, April 14    | Tuesday, April 22, 6 AM  |
+	+------------------+---------------------+--------------------------+
 
-How to Prepare for Advisement
-*****************************
+.. dropdown:: Preparing for Advising
 
-1. Determine your catalog year. This is found on DegreeWorks, as shown in the example image below. It is **crucial** that you know your catalog year, as there were significant changes to the Degree Curricula in 2023-24. (See the `General Education Requirements page <https://engr-advising.github.io/gened.html>`_.)
+	1. Determine your catalog year. This is found on DegreeWorks, as shown in the example image below. It is **crucial** that you know your catalog year, as there were significant changes to the Degree Curricula in 2023-24. (See the `General Education Requirements page <https://engr-advising.github.io/gened.html>`_.)
 
-.. figure::  _images/catalogyear.png
-   :width: 100%
-   :align: center
+	.. figure::  _images/catalogyear.png
+	   :width: 100%
+	   :align: center
 
-2. Find and print the appropriate curriculum sheet for your catalog year, major, and license option (see Documents section below).
+	2. Find and print the appropriate curriculum sheet for your catalog year, major, and license option (:bdg-link-primary-line:`CLICK HERE <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>` to access Degree Curricula and Flowcharts.).
 
-3. Complete the curriculum sheet by making notations to the **right** of the credit hours:
+	3. Complete the curriculum sheet by making notations to the **right** of the credit hours:
 
-   a. Mark courses you’ve already completed, either at Maritime or via transfer credit, with a check (✔)
+	   a. Mark courses you’ve already completed, either at Maritime or via transfer credit, with a check (✔)
 
-   b. Mark courses you’re currently taking with a tilde (~)
+	   b. Mark courses you’re currently taking with a tilde (~)
+		
+	   c. Mark courses you plan to take next semester with a star (✩)
+
+	You can use DegreeWorks to help you complete items 3a and 3b.
+
+	To complete item 3c, you should take into account the following concerns:
+
+		* Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet).
+		* How many credits you wish to take.
+		* Pre- and co-requisites (shown via arrows on the Flowchart).
+		* When you hope to graduate.
 	
-   c. Mark courses you plan to take next semester with a star (✩)
+.. dropdown:: Registering for Classes
 
-You can use DegreeWorks to help you complete items 3a and 3b.
+	You should determine your registration date by checking the `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_. Your class standing is determined based on the degree completion percentage shown in DegreeWorks, broken down as follows:
 
-To complete item 3c, you should take into account the following concerns:
+		* Freshman: 0-24%
+		* Sophomore: 25-49%
+		* Junior: 50-74%
+		* Senior: 75% and above
+		
+	Registration begins promptly at 6 AM. It is recommended that before registration begins, you determine which classes and sections you wish to take, and write down the CRN for each one. You should also have your registration PIN, provided by your advisor during registration, ready. The registrar's page has a `tutorial <https://www.sunymaritime.edu/sites/default/files/2022-01/Self%20Service%20Registration%20Instructions.pdf>`_ to assist you in using the CRNs to register to classes. This document also explains the errors that can occur during registration.
 
-	* Which courses are only offered in fall or spring (bold-faced font on the curriculum sheet).
-	* How many credits you wish to take.
-	* Pre- and co-requisites (see Documents section below).
-	* When you hope to graduate.
-	
-How to Register for Classes
-***************************
+.. dropdown:: Degree Curricula and Flowcharts
 
-You should determine your registration date by checking the `Maritime College calendar <https://www.calendarwiz.com/calendars/calendar.php?crd=maritimedemo>`_. Your class standing is determined based on the degree completion percentage shown in DegreeWorks, broken down as follows:
+	:bdg-link-primary-line:`CLICK HERE <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>` to access Degree Curricula and Flowcharts. These are sorted by major, then license, then catalog year. Note that for each catalog year, there are usually two files: one is the Degree Curriculum, and the other is the Flowchart.
 
-	* Freshman: 0-24%
-	* Sophomore: 25-49%
-	* Junior: 50-74%
-	* Senior: 75% and above
-	
-Registration begins promptly at 6 AM. It is recommended that before registration begins, you determine which classes and sections you wish to take, and write down the CRN for each one. You should also have your registration PIN, provided by your advisor during registration, ready. The registrar's page has a `tutorial <https://www.sunymaritime.edu/sites/default/files/2022-01/Self%20Service%20Registration%20Instructions.pdf>`_ to assist you in using the CRNs to register to classes. This document also explains the errors that can occur during registration.
+	Degree Curricula
+	****************
 
-Documents
----------
+	To read your curriculum sheet, keep these things in mind:
 
-Degree Curricula
-****************
+		* Any course which is written in **bold face** is only offered in the semester in which is it listed.
+		* Otherwise, the semesters in which each course is written is only a suggestion. You may take classes in different semesters than indicated, and you may sometimes take them out of order.
+		* To determine what to take next, you should keep in mind pre- and co-requisites, which are listed on the curriculum flow charts, as described in the next section.
+		
+	Flowcharts
+	***********
 
-`CLICK HERE <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_ to access all Degree Curricula and Flowcharts for the School of Engineering. Make sure you select the correct catalog year, and choose the file with the words "Degree Curricula" in the filaname.
+	To read your curriculum flow chart, keep these things in mind:
 
-To read your curriculum sheet, keep these things in mind:
+		* Solid lines indicate pre-requisites.
+		* Dotted lines indicate co-requisites.
+		* A few courses have a minimum grade to advance to a post-requisite, indicated by a red line and text which lists the required grade.
+		* The semesters on the flow chart match the curriculum sheet and are similarly considered suggestions in most cases.
+		* Any course number which is written in **bold face** is only offered in the semester in which is it listed.
+		* Keep in mind pre-requisite chains when choosing classes to take. A good rule of thumb is to find the senior design sequence for your major and work backward through the pre-requisites.
 
-	* Any course which is written in **bold face** is only offered in the semester in which is it listed.
-	* Otherwise, the semesters in which each course is written is only a suggestion. You may take classes in different semesters than indicated, and you may sometimes take them out of order.
-	* To determine what to take next, you should keep in mind pre- and co-requisites, which are listed on the curriculum flow charts, as described in the next section.
-	
-Flowcharts
-***********
+.. dropdown:: Frequently Asked Questions
 
-Curriculum flowcharts are maintained for all Engineering majors and may be found with the Degree Curricula in `this folder <https://sunymaritime0-my.sharepoint.com/:f:/g/personal/kgosselin_sunymaritime_edu/Emjbhji_76ZPtDnYXJI7yUcBeAIHCi3RST6mE5Xusvnqqg?e=xts9iz>`_. They are sorted in the same way, and you should select the file with the word "Flowchart" in the filename.
+	**How do I take a class at another school?**
 
-To read your curriculum flow chart, keep these things in mind:
+	1. Before registering for the course, complete the Off-Campus Course Request Form (found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_) to ensure that the course will be accepted for credit.
+	2. Complete the course, but keep in mind that a minimum grade of **C** is required for all transfer courses.
+	3. Once your grade is posted, have the other school send your official transcript to
 
-	* Solid lines indicate pre-requisites.
-	* Dotted lines indicate co-requisites.
-	* A few courses have a minimum grade to advance to a post-requisite, indicated by a red line and text which lists the required grade.
-	* The semesters on the flow chart match the curriculum sheet and are similarly considered suggestions in most cases.
-	* Keep in mind pre-requisite chains when choosing classes to take. A good rule of thumb is to find the senior design sequence for your major and work backward through the pre-requisites.
+		| Office of the Registrar
+		| SUNY Maritime College
+		| 6 Pennyfield Avenue
+		| Throggs Neck, NY 10465
 
-Frequently Asked Questions
---------------------------
+	4. If the credits are not posted within a few weeks, you can email the Registrar's office (registrar@sunymaritime.edu) to check on the status of your transcripts.
+		
+	**How do I change majors?**
 
-**How do I take a class at another school?**
+	1. It is recommended that you first run a What If report in DegreeWorks to determine how the courses you have taken will transfer to your new major. You should also complete a curriculum sheet for the desired major.
+	2. Make an appointment with the department chair of your desired major.
+	3. Discuss with the chair your reason for wishing to change majors, and share your curriculum sheet with them to see if they have any suggestions or concerns.
+	4. If you are sure you would like to change majors, complete a Change of Curriculum Form (found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_), and submit it to the chair of your desired major for consideration.
 
-1. Before registering for the course, complete the Off-Campus Course Request Form (found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_) to ensure that the course will be accepted for credit.
-2. Complete the course, but keep in mind that a minimum grade of **C** is required for all transfer courses.
-3. Once your grade is posted, have the other school send your official transcript to
+	**How do I drop a class after the drop deadline?**
 
-	| Office of the Registrar
-	| SUNY Maritime College
-	| 6 Pennyfield Avenue
-	| Throggs Neck, NY 10465
-
-4. If the credits are not posted within a few weeks, you can email the Registrar's office (registrar@sunymaritime.edu) to check on the status of your transcripts.
-	
-**How do I change majors?**
-
-1. It is recommended that you first run a What If report in DegreeWorks to determine how the courses you have taken will transfer to your new major. You should also complete a curriculum sheet for the desired major.
-2. Make an appointment with the department chair of your desired major.
-3. Discuss with the chair your reason for wishing to change majors, and share your curriculum sheet with them to see if they have any suggestions or concerns.
-4. If you are sure you would like to change majors, complete a Change of Curriculum Form (found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_), and submit it to the chair of your desired major for consideration.
-
-**How do I drop a class after the drop deadline?**
-
-1. Complete a Drop/Add Form (found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_).
-2. Have the form signed by the instructor of the course.
-3. Submit the form to the registrar's office.
+	1. Complete a Drop/Add Form (found on the `Registrar's webpage <https://www.sunymaritime.edu/academics/registrars-office>`_).
+	2. Have the form signed by the instructor of the course.
+	3. Submit the form to the registrar's office.

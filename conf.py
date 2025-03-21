@@ -45,6 +45,7 @@ extensions = [
     'sphinx_collapse',
     'sphinx.ext.githubpages',
     'sphinx_togglebutton',
+    'sphinx_design',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
