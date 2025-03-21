@@ -9,21 +9,21 @@ All students **must** complete advisement each semester in order to receive thei
 :::{admonition} Finding Your Primary Advisor
 :class: dropdown
 
-You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
+	You can find your primary advisor by checking DegreeWorks. This information will be listed near the top of the page, and it will appear approximately as shown in the examples below.
 
-If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
+	If you arrive at Maritime as a first-year student and are enrolled in LEAD 101, your primary advisor is your LEAD 101 instructor for your first year. Your DegreeWorks page will have a section near the top that looks like the image below, which lists your primary advisor. In the image below, for example, the student should seek out Mrs. Stroud for advisement.
 
-.. figure::  _images/advisor1.png
-   :width: 100%
-   :align: center
+	.. figure::  _images/advisor1.png
+	   :width: 100%
+	   :align: center
 
-Once you become a second-year student, or if you transfer to Maritime as an upper-division student, your primary advisor will be someone in your major. In the image below, for example, the student should seek out Dr. Gosselin for advisement.
+	Once you become a second-year student, or if you transfer to Maritime as an upper-division student, your primary advisor will be someone in your major. In the image below, for example, the student should seek out Dr. Gosselin for advisement.
 
-.. figure::  _images/advisor2.png
-   :width: 100%
-   :align: center
+	.. figure::  _images/advisor2.png
+	   :width: 100%
+	   :align: center
+   
 :::
-
 
 When and Where to Get Advisement
 ********************************
