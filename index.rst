@@ -5,11 +5,4 @@
 Welcome to Engineering Advising at SUNY Maritime College!
 =========================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   genadv.rst
-   internships.rst
-   gened.rst
-   documents.rst
+The Engineering Advising website has moved to `the Maritime College website <https://www.sunymaritime.edu/engineering>`_.
